@@ -3345,24 +3345,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC Gamer\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\mffat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC Gamer\\source\\repos\\FirstOne\\FirstOne.csproj",
+      "projectUniqueName": "C:\\Users\\mffat\\Downloads\\FirstOne\\FirstOne.csproj",
       "projectName": "FirstOne",
-      "projectPath": "C:\\Users\\PC Gamer\\source\\repos\\FirstOne\\FirstOne.csproj",
-      "packagesPath": "C:\\Users\\PC Gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC Gamer\\source\\repos\\FirstOne\\obj\\",
+      "projectPath": "C:\\Users\\mffat\\Downloads\\FirstOne\\FirstOne.csproj",
+      "packagesPath": "C:\\Users\\mffat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mffat\\Downloads\\FirstOne\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\PC Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\mffat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3432,7 +3427,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
